@@ -1,0 +1,7 @@
+services:
+  asir_dhcp_server:
+    container_name: asir_dhcp_server
+    network_mode: "host"
+    image: networkboot/dhcpd
+    volumes:
+      - ./data:/data
