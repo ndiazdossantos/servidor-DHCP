@@ -161,11 +161,11 @@ En un caso de un entorno de desarrollo podemos crear una nueva máquina mediante
 
 * **Adaptador 1 en NAT**
 
-_![IMAGEN_NAT](https://i.imgur.com/EuHLQU8.png)_
+_![IMAGEN_NAT](https://github.com/ndiazdossantos/servidor-DHCP/blob/master/images/nat.png)_
 
 * **Adaptador 2 en Puente**
 
-_![IMAGEN_ADAPTADOR_PUENTE](https://i.imgur.com/gMJac1y.png)_
+_![IMAGEN_ADAPTADOR_PUENTE](https://github.com/ndiazdossantos/servidor-DHCP/blob/master/images/adaptardor_puente.png)_
 
 De esta manera nosotros ya conocemos la dirección MAC  a poder especificar, de todas formas podemos consultarlo de manera interna con el comando *ip addr* y desde ahi consultar dicha información.
 
